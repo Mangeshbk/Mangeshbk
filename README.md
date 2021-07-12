@@ -18,6 +18,17 @@
 
 ## 🙋‍♂️ About Me
 
+🌱 **I’m currently learning :** Full Stack Web Development
+
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+
+💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
+
+🥅 **2021 Goals :** Learning new things and contribute more
+
+<!-- 📫 You can reach me at [chat](mailto:mangeshbkwsu@gmail.com)! -->
+
+
 ## 🚀 Languages and Tools:
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -36,6 +47,10 @@
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
 </p>
 <br/>
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/Mangeshbk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
     <a href="https://github.com/Mangeshbk/github-readme-streak-stats">
@@ -63,11 +78,10 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-<a href="https://github.com/Mangeshbk/github-readme-activity-graph"><img alt="Mangesh Landges's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mangeshbk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Mangeshbk/github-readme-activity-graph"><img alt="Mangesh Landge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mangeshbk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
